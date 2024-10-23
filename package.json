@@ -1,6 +1,6 @@
 {
   "name": "discord-file-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Express API for uploading and downloading files using Discord as unlimited storage",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
